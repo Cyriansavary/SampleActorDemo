@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\dev\\SampleActorDemo\\SampleActorDemo\\Source\\SampleActorDemo\\SampleActorDemo.Build.cs",
+		"C:\\dev\\SampleActorDemo\\SampleActorDemo\\Source\\SampleActorDemo.Target.cs",
+		"C:\\dev\\SampleActorDemo\\SampleActorDemo\\Source\\SampleActorDemoEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

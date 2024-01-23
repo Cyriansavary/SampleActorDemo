@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SampleActorDemo",
+			"Path": "..\\Source\\SampleActorDemo.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SampleActorDemoEditor",
+			"Path": "..\\Source\\SampleActorDemoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

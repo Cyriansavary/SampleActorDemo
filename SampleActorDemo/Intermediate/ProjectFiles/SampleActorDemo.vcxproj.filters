@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SampleActorDemo.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SampleActorDemo.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SampleActorDemoEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SampleActorDemo">
+      <UniqueIdentifier>{350AD023-9A0E-3242-A17A-2C883220F1AE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SampleActorDemo\SampleActor.cpp">
+      <Filter>Source\SampleActorDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SampleActorDemo\SampleActor.h">
+      <Filter>Source\SampleActorDemo</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SampleActorDemo\SampleActorDemo.Build.cs">
+      <Filter>Source\SampleActorDemo</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SampleActorDemo\SampleActorDemo.cpp">
+      <Filter>Source\SampleActorDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SampleActorDemo\SampleActorDemo.h">
+      <Filter>Source\SampleActorDemo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SampleActorDemo\SampleActorDemoCharacter.cpp">
+      <Filter>Source\SampleActorDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SampleActorDemo\SampleActorDemoCharacter.h">
+      <Filter>Source\SampleActorDemo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SampleActorDemo\SampleActorDemoGameMode.cpp">
+      <Filter>Source\SampleActorDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SampleActorDemo\SampleActorDemoGameMode.h">
+      <Filter>Source\SampleActorDemo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SampleActorDemo\SamplePawn.cpp">
+      <Filter>Source\SampleActorDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SampleActorDemo\SamplePawn.h">
+      <Filter>Source\SampleActorDemo</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

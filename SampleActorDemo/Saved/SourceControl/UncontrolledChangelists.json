@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/dev/SampleActorDemo/SampleActorDemo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/dev/SampleActorDemo/SampleActorDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/69/YAMLSB3NVAS2C3GBT15RHP.uasset",
+				"C:/dev/SampleActorDemo/SampleActorDemo/Content/BP_SampleActor.uasset"
+			]
+		}
+	]
+}

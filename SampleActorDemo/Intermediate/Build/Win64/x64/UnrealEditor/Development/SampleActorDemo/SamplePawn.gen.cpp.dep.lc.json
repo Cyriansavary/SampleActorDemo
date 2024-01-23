@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\dev\\sampleactordemo\\sampleactordemo\\intermediate\\build\\win64\\unrealeditor\\inc\\sampleactordemo\\uht\\samplepawn.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\dev\\sampleactordemo\\sampleactordemo\\intermediate\\build\\win64\\x64\\sampleactordemoeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\dev\\sampleactordemo\\sampleactordemo\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sampleactordemo\\definitions.sampleactordemo.h",
+            "c:\\dev\\sampleactordemo\\sampleactordemo\\source\\sampleactordemo\\samplepawn.h",
+            "c:\\dev\\sampleactordemo\\sampleactordemo\\intermediate\\build\\win64\\unrealeditor\\inc\\sampleactordemo\\uht\\samplepawn.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
