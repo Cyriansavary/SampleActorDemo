@@ -7,6 +7,15 @@
 			"files": [
 				"C:/dev/SampleActorDemo/SampleActorDemo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/dev/SampleActorDemo/SampleActorDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/69/YAMLSB3NVAS2C3GBT15RHP.uasset",
+				"C:/dev/SampleActorDemo/SampleActorDemo/Content/BP_SampleActor.uasset",
+				"C:/dev/SampleActorDemo/SampleActorDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/R5/ZHH5MQ9G7U5AMRB6U7XWBH.uasset",
+				"C:/dev/SampleActorDemo/SampleActorDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/O0/1R3QWFO4ZSJQ9YMR0902TM.uasset",
+				"C:/dev/SampleActorDemo/SampleActorDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/QY/I03XP9L8I8FRMXM9C9GH2T.uasset",
+				"C:/dev/SampleActorDemo/SampleActorDemo/Content/BP_Bullet.uasset",
+				"C:/dev/SampleActorDemo/SampleActorDemo/Content/BP_GameMode.uasset",
+				"C:/dev/SampleActorDemo/SampleActorDemo/Content/BP_Target.uasset",
+				"C:/dev/SampleActorDemo/SampleActorDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/W8/V2TYSS8LX2DHAXTCW1MXUQ.uasset",
+				"C:/dev/SampleActorDemo/SampleActorDemo/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/dev/SampleActorDemo/SampleActorDemo/Content/BP_SampleActor.uasset"
 			]
 		}

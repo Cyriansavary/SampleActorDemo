@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\dev\\sampleactordemo\\sampleactordemo\\source\\sampleactordemo\\samplegamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\dev\\sampleactordemo\\sampleactordemo\\intermediate\\build\\win64\\x64\\sampleactordemoeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\dev\\sampleactordemo\\sampleactordemo\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sampleactordemo\\definitions.sampleactordemo.h",
+            "c:\\dev\\sampleactordemo\\sampleactordemo\\source\\sampleactordemo\\samplegamemode.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\dev\\sampleactordemo\\sampleactordemo\\intermediate\\build\\win64\\unrealeditor\\inc\\sampleactordemo\\uht\\samplegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

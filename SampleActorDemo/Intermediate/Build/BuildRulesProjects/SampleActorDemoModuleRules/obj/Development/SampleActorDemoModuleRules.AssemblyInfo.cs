@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SampleActorDemoModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+190ac89bf69d8a8480a3eff1f37ed65114fe7f98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c7b9a6c3f05e8bc26398c62ffcacd91f686fd77")]
 [assembly: System.Reflection.AssemblyProductAttribute("SampleActorDemoModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SampleActorDemoModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

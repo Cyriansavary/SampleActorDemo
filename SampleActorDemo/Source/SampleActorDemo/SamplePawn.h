@@ -22,6 +22,27 @@ protected:
 	UPROPERTY(VisibleAnyWhere, BlueprintReadOnly)
 	class UStaticMeshComponent* StaticMesh;
 
+	UPROPERTY(VisibleAnyWhere, BlueprintReadOnly)
+	class UFloatingPawnMovement* PawnMovement;
+
+	UPROPERTY(VisibleAnyWhere, BlueprintReadOnly)
+	class UCameraComponent* Camera;
+
+	UPROPERTY(VisibleAnyWhere, BlueprintReadOnly)
+	class USpringArmComponent* SpringArm;
+
+	UPROPERTY(EditAnyWhere)
+	class TSubclassOf<class ABullet> BulletClass;
+
+	UPROPERTY(EditAnyWhere)
+	float BulletSpawnOffset = 100.f;
+
+	void MoveForward(float Value);
+	void MoveRight(float Value);
+	void Turn(float Value);
+	void lookUp(float Value);
+	void Shoot();
+
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;

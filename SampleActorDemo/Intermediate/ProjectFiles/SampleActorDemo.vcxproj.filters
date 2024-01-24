@@ -33,6 +33,12 @@
     <Filter Include="Source\SampleActorDemo">
       <UniqueIdentifier>{350AD023-9A0E-3242-A17A-2C883220F1AE}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\SampleActorDemo\Bullet.cpp">
+      <Filter>Source\SampleActorDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SampleActorDemo\Bullet.h">
+      <Filter>Source\SampleActorDemo</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\SampleActorDemo\SampleActor.cpp">
       <Filter>Source\SampleActorDemo</Filter>
     </ClCompile>
@@ -60,10 +66,22 @@
     <ClInclude Include="..\..\Source\SampleActorDemo\SampleActorDemoGameMode.h">
       <Filter>Source\SampleActorDemo</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\SampleActorDemo\SampleGameMode.cpp">
+      <Filter>Source\SampleActorDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SampleActorDemo\SampleGameMode.h">
+      <Filter>Source\SampleActorDemo</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\SampleActorDemo\SamplePawn.cpp">
       <Filter>Source\SampleActorDemo</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\SampleActorDemo\SamplePawn.h">
+      <Filter>Source\SampleActorDemo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SampleActorDemo\Target.cpp">
+      <Filter>Source\SampleActorDemo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SampleActorDemo\Target.h">
       <Filter>Source\SampleActorDemo</Filter>
     </ClInclude>
   </ItemGroup>
